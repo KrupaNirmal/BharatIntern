@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      width: 80%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #dfdfeb;
+      box-shadow: 0 0 10px rgba(35, 3, 91, 0.1);
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    header, footer {
+      background-color: #140253;
+      color: #140253;
+      text-align: center;
+      padding: 10px 0;
+    }
+
+    section {
+      padding: 20px 0;
+    }
+
+    section img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      border-radius: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+  <title>Krupa Nirmal - Portfolio</title>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Krupa Nirmal</h1>
+      <p>Information science student </p>
+    </div>
+  </header>
+
+  <section class="container">
+    <h2>About Me</h2>
+    <p>
+      My name is Krupa Nirmal and the opportunity to learn more about computer science fills me with excitement. i m hard working and a quick learner who wants to gain more knowledge.
+    </p>
+    <img src="C:\\Users\\Family\\Pictures\\me1.jpg" alt="About Me Image">
+  </section>
+
+  <section class="container">
+    <h2>Accomplishments</h2>
+    <ul>
+      <li>I have done several mini projects in Python, c++ and java </li>
+      <li>Aqmenz automation pvt. ltd internship using python</li>
+    </ul>
+    <img src="Z:\\intern certi.jpg" alt="Accomplishments Image">
+  </section>
+
+  <section class="container">
+    <h2>Contact Me</h2>
+    <p>Email: krupa.nirmal2003@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/KrupaNirmal">LinkedIn Profile</a></p>
+     </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 Krupa Nirmal</p>
+    </div>
+  </footer>
+</body>
+</html>
